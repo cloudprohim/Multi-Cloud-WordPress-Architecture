@@ -1,2 +1,3 @@
 # Multi-Cloud-WordPress-Architecture
 "Multi-cloud WordPress architecture deployed on AWS and Azure featuring WAF, ALB, Auto-scaling EC2, and private RDS with Azure AD integration."
+![Architecture Diagram](./multi-cloud-wordpress-aws-azure-architecture.png)
